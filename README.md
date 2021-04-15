@@ -1,2 +1,2 @@
 # sakura
-https://vutuankiet.github.io/sakura/
+https://vutuankiet.github.io/sakura/index.html
